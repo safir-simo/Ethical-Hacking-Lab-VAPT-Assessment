@@ -65,7 +65,7 @@ To simulate a real-world penetration test and identify security weaknesses in a 
 
 ## 📄 Assessment Report
 
-📎 The full technical report:
+📎 Full technical report:
   
 [Ethical Hacking Assessment Report](./Ethical-Hacking-Report.pdf)
 
