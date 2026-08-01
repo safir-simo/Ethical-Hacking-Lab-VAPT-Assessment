@@ -57,6 +57,12 @@ The assessment process involves the following steps:
 
 ---
 
+## Objective
+
+To simulate a real-world penetration test and identify security weaknesses in a vulnerable system.
+
+---
+
 ## 📄 Assessment Report
 
 📎 The full technical report of the assessment is available here:
