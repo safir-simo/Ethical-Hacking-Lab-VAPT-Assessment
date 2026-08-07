@@ -7,10 +7,12 @@ This is a practical ethical hacking assessment performed within a lab. The asses
 
 ## 💾 Tools & Technologies
 
-- Nmap  
+- Nmap   
 - Enum4linux  
 - SMBClient  
-- Netcat  
+- Netcat
+- Metaspliot
+- Kali Linux   
 
 ---
 
@@ -20,14 +22,23 @@ The assessment process involves the following steps:
 
 1. **Reconnaissance & Scanning**
    - Network discovery and scanning for open ports
+   - information gathering
 2. **Enumeration**
    - Enumeration of services and users (SMB and FTP)
+   - Port scanning
+   - Service Version detection
 3. **Vulnerability Discovery**
    - Discovery of insecure configurations and outdated services
-4. **Risk Analysis**
+   - Mapping attack vectors
+4. **Exploitation**
    - Likelihood and impact analysis of discovered vulnerabilities
-5. **Mitigation**
-   - Vulnerability mitigation and verification of mitigations
+   - Gaining access using discovered vulnerabilities 
+5. **Post-Exploration**
+   - Privilege escalation
+   - impact analysis
+6. **Reporting**
+   - Documenting Findings
+   - Providing remediation recommendations      
 
 ---
 
@@ -57,6 +68,17 @@ The assessment process involves the following steps:
 
 ---
 
+## 📚 Skill Demonstrated
+
+- Ethical Hacking & Penetration Testing
+- Vulnerability Analysis
+- Security tools Usage
+- Technical Reporting
+- Critical Thinking & Problem Solving 
+
+
+---
+
 ## 🎯 Objective
 
 To simulate a real-world penetration test and identify security weaknesses in a vulnerable system.
@@ -64,6 +86,12 @@ To simulate a real-world penetration test and identify security weaknesses in a 
 ---
 
 ## 📄 Assessment Report
+
+A detailed assessment report is included, covering:
+- Vulnerability descriptions
+- Proof of concept (PoC)
+- Risk rating
+- Mitigation strategies
 
 📎 Full technical report:
   
