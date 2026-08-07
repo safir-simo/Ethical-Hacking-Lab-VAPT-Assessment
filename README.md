@@ -35,7 +35,7 @@ The assessment process involves the following steps:
    - Gaining access using discovered vulnerabilities 
 5. **Post-Exploration**
    - Privilege escalation
-   - impact analysis
+   - Impact analysis
 6. **Reporting**
    - Documenting Findings
    - Providing remediation recommendations      
